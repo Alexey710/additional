@@ -8,7 +8,6 @@ import org.example.SummingMethod.Bill;
 import org.example.SummingMethod.User;
 import static org.junit.Assert.*;
 
-
 public class SummingMethodTest {
 
     @Test

@@ -6,7 +6,6 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-
 /**
  * 2.3. Группировка элементов и сумма. Метод summigtInt()
  * Вам дан список пользователей, у каждого пользователя есть счет.
@@ -75,9 +74,6 @@ public class SummingMethod {
                                         .mapToInt(Bill::getBalance)
                                         .sum()
                                 )));
-
-
     }
-
 
 }
