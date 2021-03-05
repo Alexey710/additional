@@ -1,3 +1,1 @@
-#merge1
-#2
-#3
+This repository for Git operations.
